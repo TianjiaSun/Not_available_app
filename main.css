@@ -3,8 +3,8 @@ body {
 }
 .center {
   position: absolute;
-  left: calc(50vw - 20vh);
-  top: 30vh;
-  width: 40vh;
-  height: 40vh;
+  left: calc(50vw - 17vh);
+  top: 33vh;
+  width: 34vh;
+  height: 34vh;
 }
